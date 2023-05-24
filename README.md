@@ -19,9 +19,14 @@ Olá, eu sou Laurito Júnior. -->
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laur1to&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=laur1to&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laur1to&theme=chartreuse-dark&hide_border=false)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laur1to&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laur1to&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+  
+</div>
+
   
 <div align="center">
 
