@@ -21,9 +21,9 @@ Olá, eu sou Laurito Júnior. -->
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=laur1to&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=laur1to&theme=chartreuse-dark&hide_border=false)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laur1to&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=laur1to&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&border_radius=20)
+![](https://github-readme-streak-stats.herokuapp.com/?user=laur1to&theme=chartreuse-dark&hide_border=false&border_radius=20)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laur1to&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=20) -->
   
 </div>
 
