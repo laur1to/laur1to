@@ -1,6 +1,9 @@
-# 💫 About Me:
-Olá, eu sou Laurito Júnior.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ff66&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66ff66&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Laurito+Eça+Menezes+Júnior;I'm+42+years+old;I+am+from+Aracaju,+SE,+Brazil;I+study+Software+Engineering+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!-- # 💫 About Me:
+Olá, eu sou Laurito Júnior. -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lauritom)
@@ -28,10 +31,15 @@ Olá, eu sou Laurito Júnior.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
   [![](https://visitcount.itsvg.in/api?id=laur1to&icon=5&color=6)](https://visitcount.itsvg.in)
   
-</div>
-  
+</div> -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{laur1to}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ff66&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
