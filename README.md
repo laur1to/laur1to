@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ff66&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66ff66&size=36&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Laurito+Eça+Menezes+Júnior+++;I'm+42+years+old+++;I+am+from+Aracaju,+SE,+Brazil+++;I+study+Software+Engineering+at+Estácio++++;Be+Welcome!+:%29+++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66ff66&size=36&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Laurito+Eça+Menezes+Júnior+++;I+am+from+Aracaju,+SE,+Brazil+++;I'm+a+software+engineer+in+training+++;Be+Welcome!+:%29+++)](https://git.io/typing-svg)
 
 <h2 style="color: #44AEFB">⚙️ Tech Stack and Tools:</h2>
 <div align="center" style="display:block;">
